@@ -104,6 +104,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
+<!-- GitHub活动日历 -->
+<img src="https://activity-graph.herokuapp.com/graph?username=yf-cheng2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<!-- WakaTime统计 -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&theme=vue-dark&hide_border=true" />
+
 </div>
 
 ## 🎯 Currently Learning
