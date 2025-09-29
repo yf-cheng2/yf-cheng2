@@ -96,30 +96,46 @@
 
 ## 📈 Contribution Metrics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<!-- 统计卡片网格 -->
+<!-- 统计卡片行 -->
 <div align="center">
-  
-[![yf-cheng2's GitHub stats](https://github-readme-stats.vercel.app/api?username=yf-cheng2&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=3498db&icon_color=2ecc71&title_color=1abc9c)](https://github.com/yf-cheng2)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yf-cheng2&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&title_color=1abc9c)](https://github.com/yf-cheng2)
-
+  <a href="https://github.com/yf-cheng2">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=yf-cheng2&theme=radical&show_icons=true&hide_border=true&bg_color=45,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f093fb&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" />
+  </a>
+  <a href="https://github.com/yf-cheng2?tab=repositories">
+    <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yf-cheng2&theme=radical&hide_border=true&bg_color=45,667eea,764ba2&title_color=fff&text_color=fff&layout=compact&langs_count=8&exclude_repo=github-readme-stats" />
+  </a>
 </div>
+
+<br/>
 
 <!-- WakaTime 统计 -->
 <div align="center">
-  
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&title_color=1abc9c&custom_title=Weekly%20Development)](https://wakatime.com/@yf-cheng2)
-
+  <a href="https://wakatime.com/@yf-cheng2">
+    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&theme=radical&hide_border=true&layout=compact&langs_count=8&custom_title=Weekly%20Coding%20Activity&range=last_7_days&bg_color=45,667eea,764ba2" />
+  </a>
 </div>
 
-<!-- 奖杯墙 -->
+<br/>
+
+<!-- 连续贡献和奖杯 -->
 <div align="center">
+  <a href="https://github.com/yf-cheng2">
+    <img src="https://streak-stats.demolab.com?user=yf-cheng2&theme=radical&background=45%2C667eea%2C764ba2&hide_border=true&ring=f093fb&fire=f093fb&currStreakLabel=f093fb" />
+  </a>
+</div>
 
-### 🏆 Achievement Wall
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=flat&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/yf-cheng2)
-
+<!-- 成就奖杯 -->
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <a href="https://github.com/yf-cheng2?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&rank=-C,-B" />
+  </a>
 </div>
 
 </div>
