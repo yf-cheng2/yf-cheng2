@@ -1,7 +1,7 @@
-## Hey bro, welcome to '云凡之家' ! 👋
+## Hey bro, welcome to 'yf-cheng2' ! 👋
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=云%20凡%20之%20家!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaokang2022!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=云%20凡!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20yf-cheng2!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
