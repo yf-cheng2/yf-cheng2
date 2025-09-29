@@ -1,7 +1,7 @@
 ## Hey bro, welcome to '云凡之家' ! 👋
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&&section=header&text=云%20凡!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20yf-cheng2!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=云%20凡!&fontSize=95&fontAlign=50&fontAlignY=28&desc=FullStack%20Developer&descAlign=50&descSize=25&descAlignY=65&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=2">
 </p>
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
