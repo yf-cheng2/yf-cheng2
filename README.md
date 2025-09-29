@@ -99,9 +99,15 @@
 <!-- 贡献统计 -->
 <div align="center">
 
-## 🐍 Contribution Snake
-
+<!-- 贪吃蛇贡献图 -->
 ![Snake animation](https://github.com/yf-cheng2/yf-cheng2/blob/output/github-contribution-grid-snake.svg)
+
+<!-- GitHub 统计卡片 -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yf-cheng2&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=yf-cheng2&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+
+<!-- WakaTime 统计 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 </div>
 
@@ -109,11 +115,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
-</div>
 
 ## 🎯 Currently Learning
 <p align="center">
