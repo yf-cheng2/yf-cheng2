@@ -98,8 +98,12 @@
 
 <!-- 贡献统计 -->
 <div align="center">
-  
+
+## 🐍 Contribution Snake
+
 ![Snake animation](https://github.com/yf-cheng2/yf-cheng2/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <!-- 奖杯 -->
 <p align="center">
