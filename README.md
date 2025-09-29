@@ -1,6 +1,8 @@
 ## Hey bro, welcome to our big family ! 👋
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=云%20凡!&fontSize=95&fontAlign=50&fontAlignY=28&desc=FullStack%20Developer&descAlign=50&descSize=25&descAlignY=65&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=2">
+
 <!-- 动态打字效果 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=67B26F&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+yf-cheng2!;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
