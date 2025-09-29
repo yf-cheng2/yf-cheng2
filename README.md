@@ -11,7 +11,7 @@
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&bg_color=30,ff9a9e,fad0c4&title_color=fff&text_color=fff&icon_color=ffd700&hide_border=true&show_icons=true&include_all_commits=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=nightowl&bg_color=45,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f093fb&hide_border=true&show_icons=true&include_all_commits=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=yf-cheng2&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
