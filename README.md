@@ -110,11 +110,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
-<!-- GitHub活动日历 -->
-<img src="https://activity-graph.herokuapp.com/graph?username=yf-cheng2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 </div>
 
