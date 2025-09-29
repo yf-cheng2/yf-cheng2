@@ -99,13 +99,7 @@
 <!-- 贡献统计 -->
 <div align="center">
 
-<!-- 贪吃蛇贡献图 -->
-![Snake animation](https://github.com/yf-cheng2/yf-cheng2/blob/output/github-contribution-grid-snake.svg)
-
-
-
 <!-- WakaTime 统计 -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 </div>
