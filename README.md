@@ -11,7 +11,7 @@
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yf-cheng2&theme=blue-green&bg_color=45,00b4db,0083b0&title_color=fff&text_color=fff&icon_color=ffd700&hide_border=true&show_icons=true&include_all_commits=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=vue&bg_color=90,ffafbd,ffc3a0&title_color=fff&text_color=fff&icon_color=ff6b6b&hide_border=true&show_icons=true&include_all_commits=true" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=yf-cheng2&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
