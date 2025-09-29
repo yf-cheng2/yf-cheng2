@@ -96,18 +96,33 @@
 
 ## 📈 Contribution Metrics
 
-<!-- 贡献统计 -->
 <div align="center">
 
-<!-- WakaTime 统计 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- 统计卡片网格 -->
+<div align="center">
+  
+[![yf-cheng2's GitHub stats](https://github-readme-stats.vercel.app/api?username=yf-cheng2&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=3498db&icon_color=2ecc71&title_color=1abc9c)](https://github.com/yf-cheng2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yf-cheng2&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&title_color=1abc9c)](https://github.com/yf-cheng2)
 
 </div>
 
-<!-- 奖杯 -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
+<!-- WakaTime 统计 -->
+<div align="center">
+  
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&title_color=1abc9c&custom_title=Weekly%20Development)](https://wakatime.com/@yf-cheng2)
+
+</div>
+
+<!-- 奖杯墙 -->
+<div align="center">
+
+### 🏆 Achievement Wall
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=flat&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/yf-cheng2)
+
+</div>
+
+</div>
 
 ## 🎯 Currently Learning
 <p align="center">
