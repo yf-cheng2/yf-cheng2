@@ -96,21 +96,6 @@
 
 ## 📈 Contribution Metrics
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- 统计卡片行 -->
-<div align="center">
-  <a href="https://github.com/yf-cheng2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=yf-cheng2&theme=radical&show_icons=true&hide_border=true&bg_color=45,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f093fb&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" />
-  </a>
-  <a href="https://github.com/yf-cheng2?tab=repositories">
-    <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yf-cheng2&theme=radical&hide_border=true&bg_color=45,667eea,764ba2&title_color=fff&text_color=fff&layout=compact&langs_count=8&exclude_repo=github-readme-stats" />
-  </a>
-</div>
-
-<br/>
 
 <!-- WakaTime 统计 -->
 <div align="center">
@@ -130,13 +115,10 @@
 
 <br/>
 
-<!-- 成就奖杯 -->
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/yf-cheng2?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&rank=-C,-B" />
-  </a>
-</div>
+<!-- 奖杯 -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yf-cheng2&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
 
 </div>
 
