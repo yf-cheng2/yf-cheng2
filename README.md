@@ -96,12 +96,6 @@
 
 ## 📈 Contribution Metrics
 
-
-<!-- waste Time -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yf-cheng2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
-<br/>
-
 <!-- 连续贡献和奖杯 -->
 <div align="center">
   <a href="https://github.com/yf-cheng2">
